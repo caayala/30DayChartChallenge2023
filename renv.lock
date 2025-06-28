@@ -1,0 +1,2 @@
+# Genera con renv::snapshot() luego de instalar:
+# install.packages(c("readr","dplyr","lubridate","ggplot2","shiny","shinylive","fs"))
